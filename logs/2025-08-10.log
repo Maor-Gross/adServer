@@ -6,3 +6,4 @@
 [2025/08/10 12:59:50] GET /users/6865573a09f875f9ed574cd7 500  -  5.486 ms | Internal Server Error
 [2025/08/10 13:00:47] GET /users/6865573a09f875f9ed574cd7 500  -  7.218 ms | Internal Server Error
 [2025/08/10 13:00:47] GET /users/6865573a09f875f9ed574cd7 500  -  5.741 ms | Internal Server Error
+[2025/08/10 16:15:23] POST /users/login 400  -  18.976 ms | Authentication Error: User not exist
