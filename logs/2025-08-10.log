@@ -2,3 +2,7 @@
 [2025/08/10 12:37:17] GET /users/6865573a09f875f9ed574cd7 500  -  4.312 ms | Internal Server Error
 [2025/08/10 12:37:43] GET /users/6865573a09f875f9ed574cd7 500  -  16.172 ms | Internal Server Error
 [2025/08/10 12:37:43] GET /users/6865573a09f875f9ed574cd7 500  -  11.233 ms | Internal Server Error
+[2025/08/10 12:59:50] GET /users/6865573a09f875f9ed574cd7 500  -  12.596 ms | Internal Server Error
+[2025/08/10 12:59:50] GET /users/6865573a09f875f9ed574cd7 500  -  5.486 ms | Internal Server Error
+[2025/08/10 13:00:47] GET /users/6865573a09f875f9ed574cd7 500  -  7.218 ms | Internal Server Error
+[2025/08/10 13:00:47] GET /users/6865573a09f875f9ed574cd7 500  -  5.741 ms | Internal Server Error
