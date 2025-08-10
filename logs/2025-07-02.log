@@ -1,0 +1,6 @@
+[2025/07/02 18:53:06] POST /users/login 400  -  124.076 ms | Authentication Error: User not exist
+[2025/07/02 18:53:26] POST /users/login 400  -  12.900 ms | Authentication Error: User not exist
+[2025/07/02 18:56:39] POST /users 400  -  134.109 ms | Mongoos Error: E11000 duplicate key error collection: cardsServer.users index: email_1 dup key: { email: "maorgross247@gmail.com" }
+[2025/07/02 19:19:22] GET /users 401  -  39.010 ms | Authentication Error: Please login
+[2025/07/02 19:24:16] GET /users 403  -  10.628 ms | Authorization Error: Only admin user can get all users list
+[2025/07/02 19:27:04] PUT /users 404  -  1.584 ms | Path not found

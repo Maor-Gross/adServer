@@ -1,0 +1,6 @@
+[2025/07/23 21:08:43] GET /.well-known/appspecific/com.chrome.devtools.json 404  -  9.008 ms | Path not found
+[2025/07/23 21:08:43] GET /favicon.ico 404  -  0.986 ms | Path not found
+[2025/07/23 21:08:51] GET /.well-known/appspecific/com.chrome.devtools.json 404  -  0.951 ms | Path not found
+[2025/07/23 21:09:26] GET /.well-known/appspecific/com.chrome.devtools.json 404  -  1.345 ms | Path not found
+[2025/07/23 21:09:26] GET /.well-known/appspecific/com.chrome.devtools.json 404  -  1.406 ms | Path not found
+[2025/07/23 21:10:00] GET /.well-known/appspecific/com.chrome.devtools.json 404  -  1.429 ms | Path not found
