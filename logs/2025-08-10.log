@@ -1,0 +1,4 @@
+[2025/08/10 12:37:17] GET /users/6865573a09f875f9ed574cd7 500  -  22.823 ms | Internal Server Error
+[2025/08/10 12:37:17] GET /users/6865573a09f875f9ed574cd7 500  -  4.312 ms | Internal Server Error
+[2025/08/10 12:37:43] GET /users/6865573a09f875f9ed574cd7 500  -  16.172 ms | Internal Server Error
+[2025/08/10 12:37:43] GET /users/6865573a09f875f9ed574cd7 500  -  11.233 ms | Internal Server Error
