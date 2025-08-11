@@ -18,7 +18,6 @@ const EMAIL = {
   required: true,
   lowercase: true,
   trim: true,
-  unique: true,
   match: RegExp(/^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/),
 };
 

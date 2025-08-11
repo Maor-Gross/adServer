@@ -7,7 +7,10 @@ const Address = require("../../../helpers/mongodb/Address");
 const userSchema = new mongoose.Schema({
   name: Name,
   phone: PHONE,
-  email: EMAIL,
+  email: {
+    ...EMAIL,
+    unique: true,
+  },
   password: {
     type: String,
     minLength: 7,
