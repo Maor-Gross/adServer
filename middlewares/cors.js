@@ -6,7 +6,7 @@ const corsmiddleware = cors({
     "http://localhost:5173",
     // "https://www.cardsproject.co.il",
     "https://vonclick.onrender.com"
-  ], methods: ['GET', 'POST', 'PUT', 'OPTIONS', 'PATCH'],
+  ], methods: ['GET', 'POST', 'PUT', 'OPTIONS', 'PATCH', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization', `x-auth-token`],
   credentials: true,
 });
