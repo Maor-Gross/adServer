@@ -9,7 +9,7 @@ const { handleError } = require("./utils/handleErrors");
 const loggerMiddleware = require("./logger/loggerService");
 
 const app = express();
-const PORT = 8181;
+const PORT = 8182;
 
 app.use(express.json());
 app.use(express.static("./public"));

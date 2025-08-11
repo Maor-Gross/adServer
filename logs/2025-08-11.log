@@ -2,3 +2,8 @@
 [2025/08/11 12:11:41] GET /cards 404  -  1.256 ms
 [2025/08/11 12:11:50] GET /cards 404  -  1.186 ms
 [2025/08/11 12:11:50] GET /cards 404  -  2.266 ms
+[2025/08/11 13:23:26] POST /cards 400  -  25.378 ms | Validation Error: "category" is required
+[2025/08/11 13:24:25] POST /cards 400  -  7.983 ms | Validation Error: "price" is required,"rooms" is required,"category" is required
+[2025/08/11 13:26:15] POST /cards 400  -  18.461 ms | Mongoose Error: E11000 duplicate key error collection: adServer.cards index: email_1 dup key: { email: "maorgross247@gmail.com" }
+[2025/08/11 13:26:48] POST /cards 400  -  5.852 ms | Validation Error: "price" is required,"rooms" is required,"category" is required
+[2025/08/11 13:27:27] POST /cards 400  -  5.445 ms | Validation Error: "price" is required,"rooms" is required
