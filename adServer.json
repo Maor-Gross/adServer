@@ -1,0 +1,746 @@
+[{
+  "_id": {
+    "$oid": "689a697a3df330bf03062888"
+  },
+  "title": "לה פלאיה",
+  "subtitle": "מתאימה לזוגות/משפחות. אירועים עד 30 איש.",
+  "description": "וילה לה פלאיה מארחת אתכם עם ג'קוזי ספא משלכם בחצר ובריכה פרטית מחוממת ומקורה בעונה, החופשה המושלמת בצפון בסביבה מבודדת.",
+  "price": 1500,
+  "rooms": 3,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/la-playa.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/la_playa/cover.jpg",
+    "alt": "לה פלאיה",
+    "_id": {
+      "$oid": "689a6e683df330bf03062936"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 1,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6e683df330bf03062937"
+    }
+  },
+  "bizNumber": 1009066,
+  "likes": [
+    "68989c260e9fda7aec2a576a"
+  ],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:06:50.114Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "689a6a083df330bf03062893"
+  },
+  "title": "מיקאסה בטבע",
+  "subtitle": "מתאימה לזוגות/משפחות. חצר ענקית 1000 מ\"ר",
+  "description": "וילת נופש קסומה הממוקמת בטבע הירוק של הגליל המערבי, מונה בתוכה כ- 3 חדרי שינה מאובזרים קומפלט, סלון רחב ידיים, פינת אוכל ומטבח מאובזר.",
+  "price": 2500,
+  "rooms": 5,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/mikasa.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/mikasa/cover.jpeg",
+    "alt": "מיקאסה בטבע",
+    "_id": {
+      "$oid": "689a6a083df330bf03062894"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 100,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6a083df330bf03062895"
+    }
+  },
+  "bizNumber": 7299356,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:09:12.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6a9c3df330bf030628a2"
+  },
+  "title": "מילאנו",
+  "subtitle": "שולחנות פינג פונג, סנוקר מקסימום אורחים ללינה: 30",
+  "description": "אורחי הווילה נהנים מבריכה מרעננת או מחוממת בהתאם לעונה, ג'קוזי זרמים ואווירה נפלאה של רוגע, חופש, כפר וטבע.",
+  "price": 9000,
+  "rooms": 9,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/milano",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/millano/cover.jpg",
+    "alt": "מילאנו",
+    "_id": {
+      "$oid": "689a6a9c3df330bf030628a3"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 100,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6a9c3df330bf030628a4"
+    }
+  },
+  "bizNumber": 3157039,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:11:40.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6ae33df330bf030628ab"
+  },
+  "title": "הרמוסה",
+  "subtitle": "בריכה פרטית אמבט ג'קוזי מענג",
+  "description": "קשה להישאר אדישים אל מול הנופים היפים המקיפים את וילה הרמוסה. תפאורת הנוף הופכת את המתחם יוקרתי וקסום עוד יותר.",
+  "price": 6000,
+  "rooms": 6,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/hermosa.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/hermosa/cover.jpg",
+    "alt": "הרמוסה",
+    "_id": {
+      "$oid": "689a6ae33df330bf030628ac"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 101,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6ae33df330bf030628ad"
+    }
+  },
+  "bizNumber": 9378837,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:12:51.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6b223df330bf030628b4"
+  },
+  "title": "יאניס",
+  "subtitle": "בריכת שחייה מחוממת פינת bbq בחצר",
+  "description": "את וילה יאניס תוכלו למצוא במושב עבדון בגליל המערבי, הוילה משקיפה על הנופים היפים של מערת הקשת.",
+  "price": 4000,
+  "rooms": 4,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/yanis/cover.jpg",
+    "alt": "יאניס",
+    "_id": {
+      "$oid": "689a6b223df330bf030628b5"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 101,
+    "zip": 3087500,
+    "_id": {
+      "$oid": "689a6b223df330bf030628b6"
+    }
+  },
+  "bizNumber": 7997658,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:13:54.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6b643df330bf030628bd"
+  },
+  "title": "אחוזת אדל",
+  "subtitle": "בריכה פרטית מקורה ג'קוזי ספא",
+  "description": "אחוזת אדל מרווחת ומושקעת. היא כוללת 7 חדרי שינה זוגיים, סלון יוקרתי, מטבח מאובזר, חדרי רחצה, חדרי שירותים וחצר נופש מטופחת, עשירה ויפה במיוחד.",
+  "price": 7000,
+  "rooms": 7,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/adel.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/adel/cover.jpg",
+    "alt": "אחוזת אדל",
+    "_id": {
+      "$oid": "689a6b643df330bf030628be"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 101,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6b643df330bf030628bf"
+    }
+  },
+  "bizNumber": 5434509,
+  "likes": [
+    "68989c260e9fda7aec2a576a"
+  ],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:15:00.062Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "689a6ba43df330bf030628c6"
+  },
+  "title": "גולד בוטיק",
+  "subtitle": "בריכת שחייה גדולה, מחוממת, מגודרת ומקורה ג'קוזי ספא ל-6 אנשים",
+  "description": "חופשת החלומות בוילה גולד בוטיק ממתינה לכם בישוב עבדון. ניתן להוסיף לאירוח טיפול מסאז בתיאום מראש, ארוחת ערב, ארוחת הבוקר, סידור מיוחד לאירועים מיוחדים.",
+  "price": 3000,
+  "rooms": 3,
+  "category": "villa",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/vila-gold/vila-gold.jpg",
+    "alt": "גולד בוטיק",
+    "_id": {
+      "$oid": "689a6ba43df330bf030628c7"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 101,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6ba43df330bf030628c8"
+    }
+  },
+  "bizNumber": 6074061,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:16:04.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6bec3df330bf030628cf"
+  },
+  "title": "מול הקשת",
+  "subtitle": "בריכה מרווחת ומוצלת עמדת מנגל מאובזרת",
+  "description": "במיקום אטרקטיבי בצפון הארץ, תצאו לחופשה כפרית וייחודית במתחם נופש מוקפד ומאובזר בו תיהנו משקט ושלווה לצד הנאות ומגוון רחב על אטרקציות ומסלולי טיול במרחק קצר מהמקום.",
+  "price": 4000,
+  "rooms": 4,
+  "category": "zimmer",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/mull-hakeshet.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/mull_hakeshet/cover.jpg",
+    "alt": "מול הקשת",
+    "_id": {
+      "$oid": "689a6bec3df330bf030628d0"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 101,
+    "zip": 3087500,
+    "_id": {
+      "$oid": "689a6bec3df330bf030628d1"
+    }
+  },
+  "bizNumber": 2622754,
+  "likes": [
+    "68989c260e9fda7aec2a576a"
+  ],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:17:16.962Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "689a6c263df330bf030628d8"
+  },
+  "title": "סוויטת ג'וי",
+  "subtitle": "עמדת מנגל מאבן עם כיור צמוד בריכת שחייה מקורה ומחוממת",
+  "description": "סוויטה מרהיבה עם 2 חדרי שינה מעוצבים, בריכת שחייה , ג'קוזי ספא מפנק, חצר מרווחת ואינסוף אטרקציות מפנקות נוספות.",
+  "price": 3000,
+  "rooms": 3,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/joy-suite.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/joy/cover.jpeg",
+    "alt": "סוויטת ג'וי",
+    "_id": {
+      "$oid": "689a6c263df330bf030628d9"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 102,
+    "zip": 3087500,
+    "_id": {
+      "$oid": "689a6c263df330bf030628da"
+    }
+  },
+  "bizNumber": 7617310,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:18:14.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6c623df330bf030628e1"
+  },
+  "title": "הלן",
+  "subtitle": "מתאימה לזוגות/משפחות עד 10 אנשים",
+  "description": "סוויטת הלן מציעה אירוח מדהים במושב עבדון אשר שוכן בגליל המערבי. לה מתחם חוץ חלומי ומטופח בו בריכת שחיה גדולה שולחן סנוקר ופינג פונג, וג'קוזי ספא רותח.",
+  "price": 2000,
+  "rooms": 2,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/helen/cover.jpg",
+    "alt": "הלן",
+    "_id": {
+      "$oid": "689a6c623df330bf030628e2"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 102,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6c623df330bf030628e3"
+    }
+  },
+  "bizNumber": 5091912,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:19:14.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6cad3df330bf030628ea"
+  },
+  "title": "האושר",
+  "subtitle": "מתאימה לזוגות משפחה עד 5 נפשות עטופה בטבע ופרטיות",
+  "description": "נעים להכיר סוויטת האושר, סוויטת יוקרה מהשורה הראשונה אשר עוצבה בקפידה רבה תוך דגש רב על כל הפרטים הקטנים.",
+  "price": 1000,
+  "rooms": 1,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/happiness/cover.jpeg",
+    "alt": "האושר",
+    "_id": {
+      "$oid": "689a6cad3df330bf030628eb"
+    }
+  },
+  "address": {
+    "state": "",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 102,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6cad3df330bf030628ec"
+    }
+  },
+  "bizNumber": 8760943,
+  "likes": [
+    "68989c260e9fda7aec2a576a"
+  ],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:20:29.968Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "689a6ce53df330bf030628f3"
+  },
+  "title": "קאטליה",
+  "subtitle": "זוגות ומשפחות עד 11 אורחים סוויטת יוקרה פרטית",
+  "description": "הסוויטה מונה כ-2 חדרי שינה מפנקים, מטבח מאובזר קומפלט, סלון מרווח ומשותף עם יציאה ישירות את מתחם הבריכה המפנק, ג'קוזי ספא לוהט (בחודשי החורף מתחם החוץ מקורה) מיטות שיזוף, ערסלים ועוד.",
+  "price": 2000,
+  "rooms": 2,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/kataliya/cover.jpeg",
+    "alt": "קאטליה",
+    "_id": {
+      "$oid": "689a6ce53df330bf030628f4"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 103,
+    "zip": 3087500,
+    "_id": {
+      "$oid": "689a6ce53df330bf030628f5"
+    }
+  },
+  "bizNumber": 7610624,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:21:25.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6d1e3df330bf030628fc"
+  },
+  "title": "סאן",
+  "subtitle": "כמות אנשים לאירוע: 40 כמות אנשים ללינה: 4",
+  "description": "מתחם הנופש מותאם לאירוח זוגות, משפחות, אירועים, ימי הולדת, מסיבת רווקות ומציע נופש ב-1 סויטה.",
+  "price": 1000,
+  "rooms": 1,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/sun-suite.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/sun/cover.jpg",
+    "alt": "סאן",
+    "_id": {
+      "$oid": "689a6d1e3df330bf030628fd"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 103,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6d1e3df330bf030628fe"
+    }
+  },
+  "bizNumber": 7308556,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:22:22.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6d5d3df330bf03062905"
+  },
+  "title": "בצל הדקל והתמר",
+  "subtitle": "מותאם לזוגות/משפחות מספר אנשים לאירוע: 10",
+  "description": "מזמינים אתכם להנות מנופש חלומי במתחם האירוח \"בצל הדקל והתמר\" בישוב עבדון השוכן בבגליל המערבי.",
+  "price": 6000,
+  "rooms": 6,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/dekel-tamar/cover.jpg",
+    "alt": "בצל הדקל והתמר",
+    "_id": {
+      "$oid": "689a6d5d3df330bf03062906"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 103,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6d5d3df330bf03062907"
+    }
+  },
+  "bizNumber": 9434982,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:23:25.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6d983df330bf0306290e"
+  },
+  "title": "אגם בגליל",
+  "subtitle": "חצר גדולה עם ריהוט גן איכותי בריכת שחייה מחוממת מקורה בחורף",
+  "description": "מדובר על וילה יפיפייה בעיצוב מודרני המונה כ-3 חדרי שינה ובנוסף 2 צימרים (סך הכל 6 חדרים).",
+  "price": 6000,
+  "rooms": 6,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/agam-bagalil.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/agam/cover.jpg",
+    "alt": "אגם  בגליל",
+    "_id": {
+      "$oid": "689a6d983df330bf0306290f"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 103,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6d983df330bf03062910"
+    }
+  },
+  "bizNumber": 5662401,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:24:24.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6dd63df330bf03062917"
+  },
+  "title": "פאר הגליל",
+  "subtitle": "חדר ילדים עם דלת מפרידה לינה עד 7 איש בכל סוויטה",
+  "description": "מתחם נופש ייחודי בעבדון הכולל 2 סוויטות מפנקות עם ג'קוזי זוגי רומנטי. במתחם החוץ תוכלו להנות מחצר גדולה עם בריכת שחייה מחוממת הצופה לנוף מדהים, שולחן פינג פונג, ערסל, נדנדות, ומשחקי ילדים, פינות ישיבה ועוד.",
+  "price": 7000,
+  "rooms": 7,
+  "category": "suite",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/undefined",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/peer-hagalil/cover.jpeg",
+    "alt": "פאר הגליל",
+    "_id": {
+      "$oid": "689a6dd63df330bf03062918"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 103,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6dd63df330bf03062919"
+    }
+  },
+  "bizNumber": 5897296,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:25:26.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6e223df330bf03062920"
+  },
+  "title": "גולדן vip",
+  "subtitle": "אירועים עד 50 איש. ללא הגבלת רעש.",
+  "description": "ממוקם בצפון (גליל המערבי) מתפרס על 220 מ\"ר ובו תוכלו לחגוג עד השעות הקטנות של הלילה מגוון מסיבות ואירועים",
+  "price": 2000,
+  "rooms": 2,
+  "category": "loft",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/golden-loft.html",
+  "image": {
+    "url": "https://www.vila4u.com/gallery/thumb/600/1671096052064485.jpeg",
+    "alt": "golden vip",
+    "_id": {
+      "$oid": "689a6fd53df330bf03062976"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 104,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6fd53df330bf03062977"
+    }
+  },
+  "bizNumber": 2379128,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:26:42.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689a6e583df330bf03062929"
+  },
+  "title": "זמן אהבה",
+  "subtitle": "מיטה זוגית גדולה ויוקרתית טלוויזיה 75 אינץ",
+  "description": "בילוי זוגי רומנטי בפרטיות מלאה ללא הפרעות. סוויטה מושקעת בעיצוב אדריכלי ומאובזרת בכל הנדרש לפינוק מושלם.",
+  "price": 1000,
+  "rooms": 1,
+  "category": "hour",
+  "phone": "0527736627",
+  "email": "maorgross247@gmail.com",
+  "web": "https://maor-gross.github.io/vacationonclick/pages/love-time.html",
+  "image": {
+    "url": "https://maor-gross.github.io/vacationonclick/images/location/love-time/cover.jpg",
+    "alt": "זמן אהבה",
+    "_id": {
+      "$oid": "689a6e583df330bf0306292a"
+    }
+  },
+  "address": {
+    "state": "IL",
+    "country": "ישראל",
+    "city": "עבדון",
+    "street": "יפה נוף",
+    "houseNumber": 105,
+    "zip": 308750,
+    "_id": {
+      "$oid": "689a6e583df330bf0306292b"
+    }
+  },
+  "bizNumber": 8032272,
+  "likes": [],
+  "user_id": {
+    "$oid": "68989c260e9fda7aec2a576a"
+  },
+  "createdAt": {
+    "$date": "2025-08-11T22:27:36.371Z"
+  },
+  "__v": 0
+}]
